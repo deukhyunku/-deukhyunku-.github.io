@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+#### Deukhyun Ku (DK)
 
-You can use the [editor on GitHub](https://github.com/deukhyunku/-deukhyunku-.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+민지야 알라븅
 
 ### Markdown
 
